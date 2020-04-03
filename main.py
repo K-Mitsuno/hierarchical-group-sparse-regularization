@@ -194,7 +194,7 @@ class sparse_regularization(object):
                 x += _lambda*torch.sum(torch.sqrt(torch.sum(torch.sum(p**2,0),1)))
 
                 #group lasso regularization based on the neuron wise grouping
-				#x += _lambda*torch.sum(torch.sqrt(torch.sum(torch.sum(p**2,1),1)))
+		#x += _lambda*torch.sum(torch.sqrt(torch.sum(torch.sum(p**2,1),1)))
         return x
 
     #hierarchical square rooted group lasso regularization
