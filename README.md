@@ -1,2 +1,2 @@
-# hierarchical-group-sparse-regularization
-Hierarchical Group Sparse Regularization for Deep Convolutional Neural Networks
+# Hierarchical Group Sparse Regularization for Deep Convolutional Neural Networks
+Implementation with PyTorch.
