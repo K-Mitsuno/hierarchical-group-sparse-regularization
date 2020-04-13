@@ -1,7 +1,7 @@
 # Hierarchical Group Sparse Regularization for Deep Convolutional Neural Networks
 Implementation with PyTorch.
 
-[2020 The International Joint Conference on Neural Networks (IJCNN)](https://arxiv.org/abs/2004.04394)
+[Accepted to The 2020 International Joint Conference on Neural Networks (IJCNN)](https://arxiv.org/abs/2004.04394)
 
 ## Requirements
 - Python 3.7.5
